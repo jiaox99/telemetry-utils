@@ -28,3 +28,7 @@ application with the -advanced-telemetry option.
 
 If password is provided, advanced telemetry will only be visible if a matching 
 password is entered in Monocle. 
+
+### add-opt-in-3.py
+
+For python 3 or greater
